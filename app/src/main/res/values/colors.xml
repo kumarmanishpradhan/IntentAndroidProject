@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blueForD">#007cba</color>
+    <color name="light_yellowgreen">#9aed3b</color>
+    <color name="light_blue">#149ede</color>
+    <color name="dracula">#44475a</color>
+    <color name="orange">#eb9123</color>
+    <color name="greenForD">#27b039</color>
+</resources>

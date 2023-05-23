@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="android_app_development">Android App Development</string>
+    <string name="web_development">Web Development</string>
+    <string name="ios_app_development">IOS App Development</string>
+    <string name="ai_ml">AI/ML</string>
+    <string name="blockchain">Blockchain</string>
+    <string name="devops">DevOps</string>
+    <string name="call_us">Call Us</string>
+</resources>
